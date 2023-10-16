@@ -19,6 +19,9 @@ public class missingno {
 		System.out.println(sum2);
 		int missingno=sum2-sum1;
 		System.out.println(missingno);
+		
+		
+		//System.out.println("test repo");
 	}
 
 }
